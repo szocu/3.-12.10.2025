@@ -116,6 +116,6 @@ class Kot(Zwierze):
 for z in [Pies(), Kot()]:
     z.dzwiek()
 
-
-
+print()
+print()
 
