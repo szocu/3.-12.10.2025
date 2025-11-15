@@ -57,3 +57,4 @@ with open("osoba.json", "r", encoding="utf-8") as plik:
 print(dane)
 print(dane["imie"])
 
+print("hello world")
